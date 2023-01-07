@@ -1,6 +1,6 @@
-# HealthyPandas
+<img src="https://images2.imgbox.com/15/36/pONlxu0M_o.png" alt="drawing" height="80" width="80"/> # HealthyPandas 
 
-<img src="https://images2.imgbox.com/15/36/pONlxu0M_o.png" alt="drawing" height="50" width="50"/>
+
 Transform your Health app data into actionable insights with HealthyPandas - the easy-to-use library that takes the raw output from your iPhone's Health app export and converts it into Pandas dataframes. With HealthyPandas, you can quickly and easily analyze and work with your health data, using the full power of Pandas for data manipulation and analysis. Don't let your health data go to waste!
 
 
