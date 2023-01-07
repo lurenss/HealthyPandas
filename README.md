@@ -11,7 +11,7 @@
 5. Now you are able to extrac what you need 
 
 ## Usage
-```
+```py
 from HealthyPandas import HealthyPandas 
 
 hpdf = HealthyPandas('./apple_health_export/exported_data.xml')
